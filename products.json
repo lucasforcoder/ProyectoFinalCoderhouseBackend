@@ -1,29 +1,20 @@
 [
   {
-    "id": 1,
-    "title": "One Piece",
-    "description": "Monkey D. Luffy's journey to become the Pirate King.",
-    "price": 9.99,
-    "thumbnail": "one_piece_thumbnail.jpg",
-    "code": "OP001",
-    "stock": 50
+    "title": "Manga 1",
+    "description": "Descripción del Manga 1",
+    "price": 14.99,
+    "thumbnail": "thumbnail1.jpg",
+    "code": "M001",
+    "stock": 40,
+    "id": 1
   },
   {
-    "id": 2,
-    "title": "Naruto",
-    "description": "Naruto Uzumaki's quest to become the Hokage.",
-    "price": 8.99,
-    "thumbnail": "naruto_thumbnail.jpg",
-    "code": "NAR001",
-    "stock": 40
-  },
-  {
-    "id": 3,
-    "title": "Dragon Ball",
-    "description": "Goku's adventures to become the strongest warrior.",
-    "price": 7.99,
-    "thumbnail": "dragon_ball_thumbnail.jpg",
-    "code": "DB001",
-    "stock": 30
+    "title": "Manga 2",
+    "description": "Descripción del Manga 2",
+    "price": 12.99,
+    "thumbnail": "thumbnail2.jpg",
+    "code": "M002",
+    "stock": 30,
+    "id": 2
   }
 ]
